@@ -1,0 +1,10 @@
+.custom figure {
+	display: inline-block;
+}
+.custom figure img {
+	margin-bottom: 0;
+}
+
+.custom figure figcaption {
+	font-size: 0.3em;
+}
